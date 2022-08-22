@@ -5,16 +5,17 @@ SudokuSolver is a program that offers a random sudoku game to the user from a da
 * Developed by Olivia Bhowmik
 * Email: developer.olivia.bhowmik@gmail.com
 * Game File: sudokuStoredGames.csv
-* License: MIT\nVersion: 1.0.0
+* License: MIT
+* Version: 1.0.0
 * Technology: Tkinter GUI and Python 3
 * Source of games: https://www.kaggle.com/datasets/bryanpark/sudoku (There are a million games here, a random set of 1000 games have been chosen for the project)
 
 # Images:
 ## Game Mode
-![Game Mode](images/SudokuGameMode.png)
+![Game Mode](images/SudokuGameMode.PNG)
 
 ## Solution Mode
-![Solution Mode](images/SudokuSolutionMode.png)
+![Solution Mode](images/SudokuSolutionMode.PNG)
 
 # Files:
 | File Name | Description |
